@@ -1,1 +1,1 @@
-https://github.com/HomeBakerySim/HomeBakerySimulator/releases/download/0.0.1-u2
+https://github.com/HomeBakerySim/HomeBakerySimulator/releases/download/0.0.1-u3
