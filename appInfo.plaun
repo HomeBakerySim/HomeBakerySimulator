@@ -3,5 +3,6 @@
   "appDesc": "",
   "appVer": "",
   "appID": "1707251943",
-  "appType": 0
+  "appType": 0,
+  "appVersionLink:"https://github.com/HomeBakerySim/HomeBakerySimulator/releases/download/0.0.3"
 }
